@@ -3,7 +3,7 @@ import { resolve } from "path";
 import { defineConfig } from "vite";
 
 export default defineConfig({
-  base: "/<nome_repositorio_github>/",
+  base: "/magazineIntensivao/",
   plugins: [],
   resolve: {
     /*something*/
